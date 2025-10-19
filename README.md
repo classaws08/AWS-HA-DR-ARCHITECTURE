@@ -16,6 +16,7 @@
 
 # ARCHITECTURE SUMMARY
   1.Two EC2 instances hosted in **Region A** and **Region B**.
+  
   2.Each region has its own **Elastic Load Balancer**.  
   3.**Route 53** monitors health of Region A using DNS failover.  
   4.When Region A fails, traffic automatically routes to **Region B**. 
