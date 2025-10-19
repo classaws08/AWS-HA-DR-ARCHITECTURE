@@ -30,4 +30,8 @@ Two EC2 instances are hosted in Region A and Region B, each with its own Elastic
 -  **High Availability:** Multi-region EC2 setup with ELB and ASG ensured continuous service availability.  
 -  **Scalability:** Auto Scaling Groups allowed the architecture to handle varying loads efficiently.  
 -  **Disaster Recovery:** Demonstrated an effective strategy for disaster recovery across regions, minimizing business impact.
+
+# ARCHITECTURE DIAGRAMS / SCREENSHOTS
+
+
   
