@@ -10,4 +10,4 @@ The goal was to ensure that the application remains available even if one AWS re
   **EC2** – Web servers deployed in multiple regions  
   **Elastic Load Balancer (ELB)** – Distributes incoming traffic  
   **Auto Scaling Group (ASG)** – Maintains instance health and scalability  
-- **Route 53** – DNS failover and health checks
+  **Route 53** – DNS failover and health checks
