@@ -39,4 +39,12 @@ Two EC2 instances are hosted in Region A and Region B, each with its own Elastic
 <img width="997" height="747" alt="Screenshot 2025-10-24 095403" src="https://github.com/user-attachments/assets/ca90ba10-678b-431e-8bf7-28196839011d" />
 
 
+**EC2 instances**
+
+
+<img width="1907" height="843" alt="EC2-A" src="https://github.com/user-attachments/assets/52308d05-11fd-411d-8cc4-2ecb2eafbaf0" />    <img width="1902" height="842" alt="EC2-B" src="https://github.com/user-attachments/assets/9f10ba4c-f10d-48e4-a168-746ed110eacc" />
+
+
+
+
 
