@@ -34,6 +34,7 @@ Two EC2 instances are hosted in Region A and Region B, each with its own Elastic
 # ARCHITECTURE DIAGRAMS / SCREENSHOTS
 
 
-<img width="1001" height="753" alt="Screenshot 2025-10-24 094337" src="https://github.com/user-attachments/assets/56014f6b-ea7c-4308-a436-7b41477609b7" />
+<img width="997" height="747" alt="Screenshot 2025-10-24 095403" src="https://github.com/user-attachments/assets/ca90ba10-678b-431e-8bf7-28196839011d" />
+
 
 
