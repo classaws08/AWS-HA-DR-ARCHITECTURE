@@ -33,6 +33,8 @@ Two EC2 instances are hosted in Region A and Region B, each with its own Elastic
 
 # ARCHITECTURE DIAGRAMS / SCREENSHOTS
 
+**High Availability & Disaster Recovery setup**
+
 
 <img width="997" height="747" alt="Screenshot 2025-10-24 095403" src="https://github.com/user-attachments/assets/ca90ba10-678b-431e-8bf7-28196839011d" />
 
