@@ -45,6 +45,14 @@ Two EC2 instances are hosted in Region A and Region B, each with its own Elastic
 <img width="1907" height="843" alt="EC2-A" src="https://github.com/user-attachments/assets/52308d05-11fd-411d-8cc4-2ecb2eafbaf0" />    <img width="1902" height="842" alt="EC2-B" src="https://github.com/user-attachments/assets/9f10ba4c-f10d-48e4-a168-746ed110eacc" />
 
 
+**Auto Scaling Group configuration**
+
+
+<img width="1905" height="846" alt="myAutoscalinggroup-A" src="https://github.com/user-attachments/assets/d08d6686-f290-41b3-a3dd-5fbf421c86c0" />  <img width="1902" height="842" alt="MyAutoscalingG-B" src="https://github.com/user-attachments/assets/3cec62e7-3b89-42d5-a04b-cedf60cace37" />
+
+
+
+
 
 
 
