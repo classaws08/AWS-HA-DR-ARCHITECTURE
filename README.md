@@ -57,6 +57,13 @@ Two EC2 instances are hosted in Region A and Region B, each with its own Elastic
 <img width="1902" height="802" alt="LB-A" src="https://github.com/user-attachments/assets/f0761e7b-2746-438d-bb92-7f00f8b11c07" />   <img width="1902" height="842" alt="LB-B" src="https://github.com/user-attachments/assets/dcbef59e-c5dc-4466-9011-c47f555de464" />
 
 
+**ROUTE 53 HEALTH CHECK & FAILOVER**
+
+
+<img width="1918" height="913" alt="route53" src="https://github.com/user-attachments/assets/aaba6e69-853b-43e0-8c07-4906cea60943" />
+
+
+
 
 
 
