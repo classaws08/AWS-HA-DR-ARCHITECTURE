@@ -63,6 +63,20 @@ Two EC2 instances are hosted in Region A and Region B, each with its own Elastic
 <img width="1918" height="913" alt="route53" src="https://github.com/user-attachments/assets/aaba6e69-853b-43e0-8c07-4906cea60943" />
 
 
+**application running in Region A**
+
+
+<img width="753" height="848" alt="index html A" src="https://github.com/user-attachments/assets/477566e2-83a7-431f-a1a2-a29a34920019" />
+
+
+**application running in Region B  after Route 53  triggered a DNS failover**
+
+
+<img width="1911" height="907" alt="regionB" src="https://github.com/user-attachments/assets/0c884684-6090-4fb7-9db9-83de11e203cb" />
+
+
+
+
 
 
 
